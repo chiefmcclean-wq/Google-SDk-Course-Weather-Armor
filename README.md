@@ -1,4 +1,3 @@
-# Google-SDk-Course-Weather-Armor
 # 🌦️ Google ADK Weather Bot ("Pat")
 
 A conversational Weather Bot built in Python using the **Google Agent Development Kit (ADK)** and Google Gemini models.
